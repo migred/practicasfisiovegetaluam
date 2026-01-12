@@ -1,0 +1,7 @@
+gradio
+pandas
+openpyxl
+numpy
+scipy
+matplotlib
+reportlab
